@@ -1,0 +1,11 @@
+GTA 5;9.5;2012;Rockstar;Action Crime
+Saints Row: The Third;8.1;2011;Volition;Action Crime
+Taken 8;9.0;2024;Bandai Namco Studios;Fighting
+Minecraft;9.0;2011;Mojang Studios;Survival
+Dead Space 2;9.0;2010;Motive Studio;Horror
+The Witcher 3: Wild Hunt;9.8;2015;CD Projekt Red;Action RPG
+Red Dead Redemption 2;9.8;2018;Rockstar;Action Adventure
+The Last of Us Part II;9.5;2020;Naughty Dog;Action Adventure
+Dark Souls III;9.5;2016;FromSoftware;Action RPG
+Fallout: New Vegas;9.5;2010;Obsidian Entertainment;Action RPG
+ss;10;1950;;Horror Simulation Survival

@@ -1,0 +1,3 @@
+Podgorica,Zabjelo,30000
+Niksic,Ozrinici,2500
+Podgorica,Donja Gorica,20000

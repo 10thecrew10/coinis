@@ -1,0 +1,3 @@
+Poljska,Krakov,1725000
+Njemacka,Berlin,3769000
+Poljska,Varsava,1708000
